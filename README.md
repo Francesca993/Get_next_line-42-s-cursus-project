@@ -1,6 +1,6 @@
 # Get Next Line
 
-> **Leggere una linea da un file descriptor**
+**Leggere una linea da un file descriptor**
 
 ## 📌 Descrizione
 
@@ -75,6 +75,9 @@ Per testare il tuo codice:
 make
 ./gnl < file_di_test.txt
 ```
+
+## Votazione
+![gradeScreenshot](gnl.png)
 
 ## 📜 Licenza
 
